@@ -1,0 +1,5 @@
+// Object Oriented Programming in Javascript is difficult, although I haven't got enough experience to differentiate it between procedural paradigm code.
+// This app will be a simple learning project that is designed to challenge me with the simple ideas of JavaScript, for my future studies and careers.
+
+// JS objects are mutable (can be changed) even when they are declared as const.
+// Typically, let is used to create mutable variables, and const is used to declare immutable variables.
